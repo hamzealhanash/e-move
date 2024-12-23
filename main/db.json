@@ -1,1 +1,26 @@
-
+{
+        Sender: [
+            "John Doe",
+            "Male",
+            "johndoe@example.com",
+            "+967 123 456 7890",
+            "123 Street, City, Country",
+            "1980-01-01"
+        ],
+        Carrier: [
+            "Jane Smith",
+            "Female",
+            "janesmith@example.com",
+            "+123 456 7890",
+            "456 Avenue, City, Country",
+            "1990-05-15"
+        ],
+        Beneficiary: [
+            "Mike Johnson",
+            "Male",
+            "mikejohnson@example.com",
+            "+987 654 3210",
+            "789 Road, City, Country",
+            "1975-12-20"
+        ]
+    }
